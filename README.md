@@ -1,2 +1,5 @@
 # Hello-World
-My first enry
+My first entry
+Ok.  This is just stuff.
+
+I get it.
